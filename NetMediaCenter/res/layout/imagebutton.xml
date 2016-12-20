@@ -1,0 +1,11 @@
+<ImageButton xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="130px"
+    android:layout_height="130px"
+    android:layout_marginLeft="5px"
+    android:layout_marginRight="5px"
+    android:background="@drawable/button_select"
+    android:padding="8px"
+    android:scaleType="centerCrop"
+    android:src="@drawable/sqfw" >
+</ImageButton>
